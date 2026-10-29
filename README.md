@@ -5,4 +5,4 @@ Contains a "Hello World" example.
 
 Make changes on web interface
 
-New feature: hello R Script!
+New feature: hello R script!
